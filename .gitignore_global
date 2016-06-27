@@ -15,4 +15,7 @@
 .idea/
 
 # My git log dump
-GIT_LOG.TXT
+GIT_LOG.cd jde  
+
+#qt creator
+CMakeLists.txt.user
