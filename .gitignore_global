@@ -19,3 +19,6 @@ GIT_LOG.cd jde
 
 #qt creator
 CMakeLists.txt.user
+
+#python
+*.pyc
